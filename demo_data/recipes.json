@@ -1,0 +1,332 @@
+[
+    {
+        "recipe_id": "PF001",
+        "name": "高铝硅酸盐-01",
+        "created_at": "2024-01-15",
+        "created_by": "张工",
+        "status": "已测试",
+        "composition": {
+            "SiO2": 60.0,
+            "Al2O3": 15.0,
+            "Na2O": 10.0,
+            "K2O": 5.0,
+            "CaO": 5.0,
+            "MgO": 3.0,
+            "Others": 2.0
+        },
+        "process_params": {
+            "melting_temp": 1600,
+            "holding_time": 2.5,
+            "annealing_temp": 550
+        },
+        "notes": "基础高铝配方，性能稳定"
+    },
+    {
+        "recipe_id": "PF002",
+        "name": "高铝硅酸盐-02",
+        "created_at": "2024-01-18",
+        "created_by": "张工",
+        "status": "已测试",
+        "composition": {
+            "SiO2": 58.0,
+            "Al2O3": 18.0,
+            "Na2O": 9.0,
+            "K2O": 5.0,
+            "CaO": 5.0,
+            "MgO": 3.0,
+            "Others": 2.0
+        },
+        "process_params": {
+            "melting_temp": 1620,
+            "holding_time": 2.5,
+            "annealing_temp": 560
+        },
+        "notes": "提高Al2O3含量，降低热膨胀系数"
+    },
+    {
+        "recipe_id": "PF003",
+        "name": "高铝硅酸盐-03",
+        "created_at": "2024-01-20",
+        "created_by": "李工",
+        "status": "已测试",
+        "composition": {
+            "SiO2": 62.0,
+            "Al2O3": 16.0,
+            "Na2O": 8.0,
+            "K2O": 4.0,
+            "CaO": 5.0,
+            "MgO": 3.0,
+            "Others": 2.0
+        },
+        "process_params": {
+            "melting_temp": 1580,
+            "holding_time": 2.0,
+            "annealing_temp": 540
+        },
+        "notes": "降低碱金属含量，提高化学稳定性"
+    },
+    {
+        "recipe_id": "PF004",
+        "name": "低膨胀玻璃-01",
+        "created_at": "2024-01-22",
+        "created_by": "王工",
+        "status": "已测试",
+        "composition": {
+            "SiO2": 65.0,
+            "Al2O3": 20.0,
+            "Na2O": 6.0,
+            "K2O": 3.0,
+            "CaO": 3.0,
+            "MgO": 2.0,
+            "Others": 1.0
+        },
+        "process_params": {
+            "melting_temp": 1650,
+            "holding_time": 3.0,
+            "annealing_temp": 580
+        },
+        "notes": "高铝低碱配方，热膨胀系数最低"
+    },
+    {
+        "recipe_id": "PF005",
+        "name": "低膨胀玻璃-02",
+        "created_at": "2024-01-25",
+        "created_by": "王工",
+        "status": "已测试",
+        "composition": {
+            "SiO2": 63.0,
+            "Al2O3": 22.0,
+            "Na2O": 5.0,
+            "K2O": 3.0,
+            "CaO": 4.0,
+            "MgO": 2.0,
+            "Others": 1.0
+        },
+        "process_params": {
+            "melting_temp": 1660,
+            "holding_time": 3.0,
+            "annealing_temp": 590
+        },
+        "notes": "进一步提高Al2O3含量"
+    },
+    {
+        "recipe_id": "PF006",
+        "name": "耐热玻璃-01",
+        "created_at": "2024-02-01",
+        "created_by": "张工",
+        "status": "已测试",
+        "composition": {
+            "SiO2": 55.0,
+            "Al2O3": 15.0,
+            "Na2O": 12.0,
+            "K2O": 5.0,
+            "CaO": 8.0,
+            "MgO": 3.0,
+            "Others": 2.0
+        },
+        "process_params": {
+            "melting_temp": 1550,
+            "holding_time": 2.0,
+            "annealing_temp": 520
+        },
+        "notes": "高钙配方，提高耐热性"
+    },
+    {
+        "recipe_id": "PF007",
+        "name": "耐热玻璃-02",
+        "created_at": "2024-02-05",
+        "created_by": "李工",
+        "status": "已测试",
+        "composition": {
+            "SiO2": 57.0,
+            "Al2O3": 14.0,
+            "Na2O": 11.0,
+            "K2O": 4.0,
+            "CaO": 9.0,
+            "MgO": 3.0,
+            "Others": 2.0
+        },
+        "process_params": {
+            "melting_temp": 1540,
+            "holding_time": 2.0,
+            "annealing_temp": 510
+        },
+        "notes": "调整CaO含量"
+    },
+    {
+        "recipe_id": "PF008",
+        "name": "高强度玻璃-01",
+        "created_at": "2024-02-10",
+        "created_by": "王工",
+        "status": "已测试",
+        "composition": {
+            "SiO2": 60.0,
+            "Al2O3": 18.0,
+            "Na2O": 8.0,
+            "K2O": 4.0,
+            "CaO": 6.0,
+            "MgO": 2.0,
+            "Others": 2.0
+        },
+        "process_params": {
+            "melting_temp": 1610,
+            "holding_time": 2.5,
+            "annealing_temp": 550
+        },
+        "notes": "平衡配方，综合性能优异"
+    },
+    {
+        "recipe_id": "PF009",
+        "name": "高强度玻璃-02",
+        "created_at": "2024-02-15",
+        "created_by": "张工",
+        "status": "实验中",
+        "composition": {
+            "SiO2": 59.0,
+            "Al2O3": 19.0,
+            "Na2O": 8.0,
+            "K2O": 4.0,
+            "CaO": 6.0,
+            "MgO": 2.0,
+            "Others": 2.0
+        },
+        "process_params": {
+            "melting_temp": 1620,
+            "holding_time": 2.5,
+            "annealing_temp": 560
+        },
+        "notes": "微调Al2O3含量"
+    },
+    {
+        "recipe_id": "PF010",
+        "name": "标准玻璃-01",
+        "created_at": "2024-02-20",
+        "created_by": "李工",
+        "status": "已测试",
+        "composition": {
+            "SiO2": 70.0,
+            "Al2O3": 2.0,
+            "Na2O": 14.0,
+            "K2O": 2.0,
+            "CaO": 8.0,
+            "MgO": 3.0,
+            "Others": 1.0
+        },
+        "process_params": {
+            "melting_temp": 1480,
+            "holding_time": 1.5,
+            "annealing_temp": 500
+        },
+        "notes": "普通钠钙玻璃，作为对照组"
+    },
+    {
+        "recipe_id": "PF011",
+        "name": "高铝硅酸盐-04",
+        "created_at": "2024-02-25",
+        "created_by": "王工",
+        "status": "实验中",
+        "composition": {
+            "SiO2": 56.0,
+            "Al2O3": 20.0,
+            "Na2O": 10.0,
+            "K2O": 5.0,
+            "CaO": 5.0,
+            "MgO": 2.0,
+            "Others": 2.0
+        },
+        "process_params": {
+            "melting_temp": 1630,
+            "holding_time": 3.0,
+            "annealing_temp": 570
+        },
+        "notes": "新配方，待测试"
+    },
+    {
+        "recipe_id": "PF012",
+        "name": "低膨胀玻璃-03",
+        "created_at": "2024-03-01",
+        "created_by": "张工",
+        "status": "待测试",
+        "composition": {
+            "SiO2": 64.0,
+            "Al2O3": 21.0,
+            "Na2O": 5.0,
+            "K2O": 3.0,
+            "CaO": 4.0,
+            "MgO": 2.0,
+            "Others": 1.0
+        },
+        "process_params": {
+            "melting_temp": 1655,
+            "holding_time": 3.0,
+            "annealing_temp": 585
+        },
+        "notes": "目标热膨胀系数<3.5×10⁻⁶/℃"
+    },
+    {
+        "recipe_id": "PF013",
+        "name": "耐热玻璃-03",
+        "created_at": "2024-03-05",
+        "created_by": "李工",
+        "status": "待测试",
+        "composition": {
+            "SiO2": 54.0,
+            "Al2O3": 16.0,
+            "Na2O": 13.0,
+            "K2O": 5.0,
+            "CaO": 8.0,
+            "MgO": 2.0,
+            "Others": 2.0
+        },
+        "process_params": {
+            "melting_temp": 1530,
+            "holding_time": 2.0,
+            "annealing_temp": 505
+        },
+        "notes": "目标耐热温度>550℃"
+    },
+    {
+        "recipe_id": "PF014",
+        "name": "高强度玻璃-03",
+        "created_at": "2024-03-10",
+        "created_by": "王工",
+        "status": "待测试",
+        "composition": {
+            "SiO2": 58.0,
+            "Al2O3": 20.0,
+            "Na2O": 7.0,
+            "K2O": 4.0,
+            "CaO": 7.0,
+            "MgO": 2.0,
+            "Others": 2.0
+        },
+        "process_params": {
+            "melting_temp": 1615,
+            "holding_time": 2.5,
+            "annealing_temp": 555
+        },
+        "notes": "目标抗弯强度>95MPa"
+    },
+    {
+        "recipe_id": "PF015",
+        "name": "化学稳定玻璃-01",
+        "created_at": "2024-03-15",
+        "created_by": "张工",
+        "status": "待测试",
+        "composition": {
+            "SiO2": 68.0,
+            "Al2O3": 12.0,
+            "Na2O": 6.0,
+            "K2O": 3.0,
+            "CaO": 7.0,
+            "MgO": 2.0,
+            "Others": 2.0
+        },
+        "process_params": {
+            "melting_temp": 1560,
+            "holding_time": 2.0,
+            "annealing_temp": 530
+        },
+        "notes": "高硅低碱配方，提高化学稳定性"
+    }
+]

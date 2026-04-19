@@ -1,0 +1,62 @@
+[
+    {
+        "id": "q001",
+        "question": "高铝硅酸盐玻璃的热膨胀系数是多少？",
+        "expected_keywords": ["热膨胀系数", "3-5", "10⁻⁶"],
+        "category": "性能参数"
+    },
+    {
+        "id": "q002",
+        "question": "如何降低玻璃的热膨胀系数？",
+        "expected_keywords": ["SiO₂", "Al₂O₃", "碱金属", "降低"],
+        "category": "配方优化"
+    },
+    {
+        "id": "q003",
+        "question": "Al₂O₃对玻璃性能有什么影响？",
+        "expected_keywords": ["热膨胀系数", "化学稳定性", "机械强度", "降低"],
+        "category": "成分影响"
+    },
+    {
+        "id": "q004",
+        "question": "玻璃的熔制温度一般是多少？",
+        "expected_keywords": ["熔制温度", "1400", "1600"],
+        "category": "工艺参数"
+    },
+    {
+        "id": "q005",
+        "question": "什么是玻璃的退火？",
+        "expected_keywords": ["退火", "转变温度", "应力"],
+        "category": "工艺基础"
+    },
+    {
+        "id": "q006",
+        "question": "玻璃密度与成分的关系？",
+        "expected_keywords": ["密度", "SiO₂", "Al₂O₃", "CaO"],
+        "category": "性能关系"
+    },
+    {
+        "id": "q007",
+        "question": "如何提高玻璃的抗弯强度？",
+        "expected_keywords": ["抗弯强度", "Al₂O₃", "退火", "表面"],
+        "category": "性能优化"
+    },
+    {
+        "id": "q008",
+        "question": "玻璃的耐热性能如何评估？",
+        "expected_keywords": ["耐热", "热稳定性", "热膨胀系数", "软化温度"],
+        "category": "性能评估"
+    },
+    {
+        "id": "q009",
+        "question": "碱金属氧化物对玻璃的影响？",
+        "expected_keywords": ["碱金属", "Na₂O", "K₂O", "助熔", "热膨胀系数"],
+        "category": "成分影响"
+    },
+    {
+        "id": "q010",
+        "question": "玻璃的化学稳定性如何提高？",
+        "expected_keywords": ["化学稳定性", "SiO₂", "Al₂O₃", "碱金属"],
+        "category": "性能优化"
+    }
+]

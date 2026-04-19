@@ -1,0 +1,113 @@
+[
+    {
+        "test_id": "TS001",
+        "recipe_id": "PF001",
+        "test_date": "2024-01-20",
+        "test_items": [
+            {"item": "热膨胀系数", "result": "4.2×10⁻⁶/℃", "unit": "×10⁻⁶/℃"},
+            {"item": "密度", "result": "2.45", "unit": "g/cm³"},
+            {"item": "抗弯强度", "result": "85", "unit": "MPa"},
+            {"item": "耐热温度", "result": "520", "unit": "℃"}
+        ]
+    },
+    {
+        "test_id": "TS002",
+        "recipe_id": "PF002",
+        "test_date": "2024-01-23",
+        "test_items": [
+            {"item": "热膨胀系数", "result": "3.8×10⁻⁶/℃", "unit": "×10⁻⁶/℃"},
+            {"item": "密度", "result": "2.48", "unit": "g/cm³"},
+            {"item": "抗弯强度", "result": "88", "unit": "MPa"},
+            {"item": "耐热温度", "result": "540", "unit": "℃"}
+        ]
+    },
+    {
+        "test_id": "TS003",
+        "recipe_id": "PF003",
+        "test_date": "2024-01-25",
+        "test_items": [
+            {"item": "热膨胀系数", "result": "4.0×10⁻⁶/℃", "unit": "×10⁻⁶/℃"},
+            {"item": "密度", "result": "2.44", "unit": "g/cm³"},
+            {"item": "抗弯强度", "result": "82", "unit": "MPa"},
+            {"item": "耐热温度", "result": "510", "unit": "℃"}
+        ]
+    },
+    {
+        "test_id": "TS004",
+        "recipe_id": "PF004",
+        "test_date": "2024-01-28",
+        "test_items": [
+            {"item": "热膨胀系数", "result": "3.2×10⁻⁶/℃", "unit": "×10⁻⁶/℃"},
+            {"item": "密度", "result": "2.42", "unit": "g/cm³"},
+            {"item": "抗弯强度", "result": "92", "unit": "MPa"},
+            {"item": "耐热温度", "result": "580", "unit": "℃"}
+        ]
+    },
+    {
+        "test_id": "TS005",
+        "recipe_id": "PF005",
+        "test_date": "2024-01-30",
+        "test_items": [
+            {"item": "热膨胀系数", "result": "3.0×10⁻⁶/℃", "unit": "×10⁻⁶/℃"},
+            {"item": "密度", "result": "2.40", "unit": "g/cm³"},
+            {"item": "抗弯强度", "result": "95", "unit": "MPa"},
+            {"item": "耐热温度", "result": "600", "unit": "℃"}
+        ]
+    },
+    {
+        "test_id": "TS006",
+        "recipe_id": "PF006",
+        "test_date": "2024-02-05",
+        "test_items": [
+            {"item": "热膨胀系数", "result": "5.5×10⁻⁶/℃", "unit": "×10⁻⁶/℃"},
+            {"item": "密度", "result": "2.52", "unit": "g/cm³"},
+            {"item": "抗弯强度", "result": "78", "unit": "MPa"},
+            {"item": "耐热温度", "result": "550", "unit": "℃"}
+        ]
+    },
+    {
+        "test_id": "TS007",
+        "recipe_id": "PF007",
+        "test_date": "2024-02-08",
+        "test_items": [
+            {"item": "热膨胀系数", "result": "5.8×10⁻⁶/℃", "unit": "×10⁻⁶/℃"},
+            {"item": "密度", "result": "2.54", "unit": "g/cm³"},
+            {"item": "抗弯强度", "result": "75", "unit": "MPa"},
+            {"item": "耐热温度", "result": "560", "unit": "℃"}
+        ]
+    },
+    {
+        "test_id": "TS008",
+        "recipe_id": "PF008",
+        "test_date": "2024-02-15",
+        "test_items": [
+            {"item": "热膨胀系数", "result": "3.5×10⁻⁶/℃", "unit": "×10⁻⁶/℃"},
+            {"item": "密度", "result": "2.46", "unit": "g/cm³"},
+            {"item": "抗弯强度", "result": "90", "unit": "MPa"},
+            {"item": "耐热温度", "result": "550", "unit": "℃"}
+        ]
+    },
+    {
+        "test_id": "TS009",
+        "recipe_id": "PF010",
+        "test_date": "2024-02-25",
+        "test_items": [
+            {"item": "热膨胀系数", "result": "8.5×10⁻⁶/℃", "unit": "×10⁻⁶/℃"},
+            {"item": "密度", "result": "2.50", "unit": "g/cm³"},
+            {"item": "抗弯强度", "result": "65", "unit": "MPa"},
+            {"item": "耐热温度", "result": "380", "unit": "℃"}
+        ]
+    },
+    {
+        "test_id": "TS010",
+        "recipe_id": "PF001",
+        "test_date": "2024-03-01",
+        "test_items": [
+            {"item": "热膨胀系数", "result": "4.1×10⁻⁶/℃", "unit": "×10⁻⁶/℃"},
+            {"item": "密度", "result": "2.46", "unit": "g/cm³"},
+            {"item": "抗弯强度", "result": "86", "unit": "MPa"},
+            {"item": "耐热温度", "result": "525", "unit": "℃"}
+        ],
+        "notes": "重复测试，验证稳定性"
+    }
+]
